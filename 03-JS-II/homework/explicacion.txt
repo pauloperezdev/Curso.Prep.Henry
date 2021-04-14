@@ -1,0 +1,9 @@
+* `for`
+Es una estructura en bucle que permite ejecutar la misma porcion de codigo varias veces. 
+
+* `&&`, `||`, `!`
+Son operadores logicos que representan las operaciones logicas 
+que pueden utilizarse con variables logicas o en las condiciones de algunas estructuras como IF, While, FOR, Etc.
+&& representa a la operación "Y"
+|| representa a la operación "O"
+! representa a la negación
