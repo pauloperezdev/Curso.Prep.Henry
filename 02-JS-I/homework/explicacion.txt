@@ -1,0 +1,18 @@
+	* Variables
+    Son datos con los cuales trabaja un programa de computadora, tienen un nombre y un valor almacenado que puede ir variando durante la ejecucion del programa 
+	
+    * Strings
+    Son un tipo de datos de variable, contiene una cadena de caracteres.
+
+	* Funciones (argumentos, `return`)
+	Son subprogramas que pueden ser utilizados dentro del programa principal. Contienen un conjunto de instrucciones definidas
+     y pueden tomar valores cuando son invocados, que reciben el nombre de argumentos.
+    Luego de ejecutar su grupo de instrucciones pueden opcionalmente devolver un valor como resultado.
+    Un ejemplo puede ser una funcion de suma que tome dos argumentos A y B que devuelva la suma de ambos
+
+    * Declaraciones `if`
+    Las estructuras de decisión IF permiten mediante una condición lógica ejecutar alternativamente distintas instrucciones.
+
+	* Valores booleanos (`true`, `false`)
+    Los valores booleanos son los dos valores posibles que puede almacenar una variable booleana 
+    y sirven para indicar dentro de un programa un estado Verdadero o Falso
