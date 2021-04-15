@@ -1,0 +1,4 @@
+	* Arrays
+    Los arrays son variables especiales que agrupan variables bajo un mismo nombre
+    En Javascript pueden agrupar distintos tipos de variables, incluso objetos.
+    Tienen su metodos especiales para asignar y recuperar los valores de las variables que contienen.
