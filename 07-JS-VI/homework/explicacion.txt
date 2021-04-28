@@ -1,0 +1,5 @@
+* Funciones Callback
+
+Un callback (Regresar la llamada) es una función que recibe como argumento otra función y la ejecuta.
+Es importante tener en cuenta que cuando pasamos un callback solo pasamos la definición de la función y no la ejecutamos en el parámetro. 
+Así, la función contenedora elige cuándo ejecutar el callback.
