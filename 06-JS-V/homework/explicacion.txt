@@ -1,0 +1,14 @@
+
+    prototype
+
+Un objeto en JavaScript tiene otro objeto, llamado prototype (prototipo, en español). 
+Cuando pedimos a un objeto una propiedad que no tiene, la busca en su prototipo. 
+Así, un prototipo es otro objeto que se utiliza como una fuente de propiedades alternativa.
+Prototype es una propiedad de Object, -el objeto del que se derivan todos los demás objetos-, y esta propiedad es, a su vez, un objeto. 
+Por tanto, el prototipo último de un objeto es Object.prototype. Este prototipo padre tiene métodos que comparten todos los objetos.
+
+    Constructors (de Clases)
+
+En programación orientada a objetos se denomina constructor al código 
+que se ejecuta cuando se crea un objeto de un tipo determinado (a cada objeto creado se le denomina instancia).
+El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
